@@ -1,0 +1,5 @@
+.js-style {
+  display: inline-flex;
+  width: 150px;
+  border: 5px solid tomato;
+}
